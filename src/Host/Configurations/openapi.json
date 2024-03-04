@@ -1,0 +1,8 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Initial Boilerplate - WebAPI",
+    "Version": "v1",
+    "Description": "Initial Boilerplate Backend API Documentations"
+  }
+}

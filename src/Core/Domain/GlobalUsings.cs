@@ -1,0 +1,1 @@
+﻿global using EcoMotorsPractice.Domain.Common.Contracts;

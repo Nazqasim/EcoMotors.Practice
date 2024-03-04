@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "postgresql",
+    "ConnectionString": "Server=localhost;Port=5432;Database=EcoMotorsPractice;User Id=postgres;Password=12345678;Pooling=true;"
+  }
+}
